@@ -1,11 +1,11 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending club case study
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
+* Lending Club study - Risk Management(#general-information)
+* Python, Pandas, NumPy(#technologies-used)
+* The risk increases with less annual income, grade and more dti(#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
